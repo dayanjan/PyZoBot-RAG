@@ -44,13 +44,13 @@ git clone https://github.com/yourusername/pyzobot_app.git
 cd pyzobot_app
 
 
-3. Create Virtual Environment
+### 3. Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 
 
-4. Install Dependencies
+### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
 
