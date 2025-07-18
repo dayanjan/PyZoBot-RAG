@@ -1,5 +1,5 @@
 
-# PyZoBot: Zotero + LLM-Powered Conversational Retrieval Platform
+# PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation.
 
 PyZoBot is a Streamlit-based application that integrates your Zotero reference library with cutting-edge LLMs (GPT, LLaMA 3.1, Mistral) via Retrieval-Augmented Generation (RAG). It enables transparent question-answering and synthesis directly from curated scientific literature.
 
