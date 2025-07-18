@@ -8,9 +8,9 @@ PyZoBot is a Streamlit-based application that integrates your Zotero reference l
 ---
 
 ## 📁 Repository Structure
-
+```
 pyzobot_app/
-├── lib/ \n
+├── lib/
 ├── pages/
 │ ├── 1_PyZoBot_OpenAI.py
 │ ├── 2_PyZoBot_OpenSource.py
@@ -20,7 +20,7 @@ pyzobot_app/
 ├── venv/
 ├── main.py
 ├── requirements.txt
-
+```
 
 ---
 
