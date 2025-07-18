@@ -3,6 +3,8 @@
 
 PyZoBot is a Streamlit-based application that integrates your Zotero reference library with cutting-edge LLMs (GPT, LLaMA 3.1, Mistral) via Retrieval-Augmented Generation (RAG). It enables transparent question-answering and synthesis directly from curated scientific literature.
 
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/73f2c68c-197e-4227-9a57-f83821317078" />
+
 ---
 
 ## 📁 Repository Structure
