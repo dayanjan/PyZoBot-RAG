@@ -51,7 +51,7 @@ Download: [https://www.python.org/downloads/release/python-3112](https://www.pyt
 ### 2. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/pyzobot_app.git
+git clone https://github.com/SuadAshammari/pyzobot_app.git
 cd pyzobot_app
 ```
 
