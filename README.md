@@ -6,16 +6,27 @@ PyZoBot is a Streamlit-based application that integrates your Zotero reference l
 ---
 
 ## 📁 Repository Structure
+
 pyzobot_app/
+
 ├── lib/
+
 ├── pages/
+
 │ ├── 1_PyZoBot_OpenAI.py
+
 │ ├── 2_PyZoBot_OpenSource.py
+
 │ ├── 3_PyZoBot_GraphRAG_OpenAI.py
+
 │ └── 4_PyZoBot_GraphRAG_OpenSource.py
+
 ├── utils/
+
 ├── venv/
+
 ├── main.py
+
 ├── requirements.txt
 
 
@@ -56,3 +67,43 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+
+### 5. Install and Set Up Ollama (For Open Source Use)
+Install Ollama from: https://ollama.com
+
+Then run:
+
+```bash
+
+ollama pull mistral
+ollama pull llama3.1:8b
+ollama pull nomic-embed-text
+ollama pull jina/jina-embeddings-v2-base-en
+```
+
+### 6. Run the App
+```bash
+streamlit run main.py
+```
+
+---
+
+## 🔧 Sidebar Configuration Guide
+### Zotero API Setup:
+- Add your Zotero API key
+- Choose library type: user or group
+- Enter your library ID or group ID
+- (Optional) Add collection ID
+
+### Model Configuration:
+- OpenAI: GPT models, API key
+- Ollama: Select local LLM and embedding model
+
+### Document Chunking:
+- Choose chunking method
+- Adjust chunk size & overlap
+
+### Run Query:
+- Select model
+- Adjust retrieval k and max tokens
+- Ask your research question!
