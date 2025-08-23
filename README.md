@@ -1,7 +1,39 @@
 
-# PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation.
+# PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation
 
-PyZoBot is a Streamlit-based application that integrates your Zotero reference library with cutting-edge LLMs (GPT, LLaMA 3.1, Mistral) via Retrieval-Augmented Generation (RAG). It enables transparent question-answering and synthesis directly from curated scientific literature.
+## Authors
+
+**Lead Developer:**
+- **Suad Alshammari, Pharm.D.** <sup>1,2</sup>
+  - Department of Clinical Practice, College of Pharmacy, Northern Border University, Rafha, Saudi Arabia
+  - Department of Pharmacotherapy and Outcomes Science, School of Pharmacy, Virginia Commonwealth University, Richmond, VA, USA
+  - *This work was developed as part of Dr. Alshammari's PhD thesis*
+
+**Project Supervisor:**
+- **Dayanjan S. Wijesinghe, Ph.D.** <sup>2</sup>
+  - Department of Pharmacotherapy and Outcomes Science, School of Pharmacy, Virginia Commonwealth University, Richmond, VA, USA
+
+**Contributors:**
+- **Walaa Abu Rukbah, Pharm.D.** <sup>2,3</sup> - Department of Pharmacy Practice, Faculty of Pharmacy, University of Tabuk, Saudi Arabia
+- **Lama Basalelah, Pharm.D.** <sup>2,4</sup> - Faculty of Pharmacy, Imam Abdulrahman Bin Faisal University, Saudi Arabia
+- **Ali Alsuhibani, Pharm.D.** <sup>2,5</sup> - Department of Pharmacy Practice, Unaizah College of Pharmacy, Qassim University, Saudi Arabia
+- **Ali Alghubayshi, Pharm.D.** <sup>2,6</sup> - Department of Clinical Pharmacy, School of Pharmacy, University of Hail, Saudi Arabia
+- **Bridget T. McInnes, Ph.D.** <sup>7</sup> - Department of Computer Science, College of Engineering, Virginia Commonwealth University, Richmond, VA, USA
+
+---
+
+## About PyZoBot
+
+PyZoBot is an AI-driven platform developed using Python that addresses the exponential growth of scientific literature and information overload challenges. It integrates Zotero's reference management capabilities with advanced Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technology.
+
+### Key Innovations:
+- **Merges traditional reference management with AI**: Combines Zotero's curated libraries with cutting-edge LLMs
+- **Multiple implementation options**: Offers both cloud-based (OpenAI) and privacy-conscious local (open-source) deployments
+- **Advanced retrieval techniques**: Includes standard RAG and knowledge graph-enhanced RAG implementations
+- **Transparent information synthesis**: Displays specific document chunks and citations used for response generation
+- **Research integrity**: Maintains scholarly standards through traceable references and citations
+
+PyZoBot is a Streamlit-based application that enables transparent question-answering and synthesis directly from curated scientific literature, effectively managing information overload while maintaining research integrity.
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/73f2c68c-197e-4227-9a57-f83821317078" />
 
