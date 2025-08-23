@@ -1,0 +1,161 @@
+PyZoBot: A Platform for Conversational Information Extraction and Synthesis 
+from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation
+
+Copyright (c) 2024 PyZoBot Contributors
+
+This product includes software developed as part of Dr. Suad Alshammari's PhD thesis 
+at Virginia Commonwealth University under the supervision of Dr. Dayanjan S. Wijesinghe.
+
+================================================================================
+PRINCIPAL CONTRIBUTORS AND AFFILIATIONS
+================================================================================
+
+Principal Investigator:
+- Dayanjan S. Wijesinghe, Ph.D.
+  Virginia Commonwealth University, School of Pharmacy
+
+Lead Developer:
+- Suad Alshammari, Pharm.D.
+  Northern Border University & Virginia Commonwealth University
+
+Contributors:
+- Walaa Abu Rukbah, Pharm.D. (University of Tabuk & VCU)
+- Lama Basalelah, Pharm.D. (Imam Abdulrahman Bin Faisal University & VCU)
+- Ali Alsuhibani, Pharm.D. (Qassim University & VCU)
+- Ali Alghubayshi, Pharm.D. (University of Hail & VCU)
+- Bridget T. McInnes, Ph.D. (Virginia Commonwealth University)
+
+================================================================================
+THIRD-PARTY COMPONENTS AND LICENSES
+================================================================================
+
+This software incorporates or depends on the following third-party components:
+
+1. Streamlit (Apache License 2.0)
+   - Copyright (c) Streamlit Inc.
+   - https://github.com/streamlit/streamlit
+
+2. LangChain (MIT License)
+   - Copyright (c) Harrison Chase
+   - https://github.com/langchain-ai/langchain
+
+3. OpenAI Python Library (MIT License)
+   - Copyright (c) OpenAI
+   - https://github.com/openai/openai-python
+
+4. Zotero/PyZotero (MIT License)
+   - Copyright (c) Stephan Hügel
+   - https://github.com/urschrei/pyzotero
+
+5. ChromaDB (Apache License 2.0)
+   - Copyright (c) Chroma
+   - https://github.com/chroma-core/chroma
+
+6. Pandas (BSD 3-Clause License)
+   - Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
+   - https://github.com/pandas-dev/pandas
+
+7. NumPy (BSD 3-Clause License)
+   - Copyright (c) 2005-2024, NumPy Developers
+   - https://github.com/numpy/numpy
+
+8. NetworkX (BSD 3-Clause License)
+   - Copyright (c) NetworkX Developers
+   - https://github.com/networkx/networkx
+
+9. PyVis (BSD 3-Clause License)
+   - Copyright (c) 2018, West Health Institute
+   - https://github.com/WestHealth/pyvis
+
+10. Plotly (MIT License)
+    - Copyright (c) 2016-2018 Plotly, Inc.
+    - https://github.com/plotly/plotly.py
+
+11. Sentence Transformers (Apache License 2.0)
+    - Copyright (c) 2019-2024, Nils Reimers
+    - https://github.com/UKPLab/sentence-transformers
+
+12. Unstructured (Apache License 2.0)
+    - Copyright (c) Unstructured Technologies Inc.
+    - https://github.com/Unstructured-IO/unstructured
+
+13. PyMuPDF/fitz (GNU AGPL v3.0)
+    - Copyright (c) 2013-2024 Artifex Software, Inc.
+    - https://github.com/pymupdf/PyMuPDF
+
+14. Ollama Python Library (MIT License)
+    - Copyright (c) Ollama
+    - https://github.com/ollama/ollama-python
+
+The complete text of each license can be found in the respective project repositories.
+
+================================================================================
+DEPENDENCIES NOTICE
+================================================================================
+
+This software requires the following external services/software:
+
+- Zotero (https://www.zotero.org/) - for reference management
+- OpenAI API (optional) - for GPT model access
+- Ollama (optional) - for local LLM deployment
+
+================================================================================
+DATA PRIVACY AND USAGE NOTICE
+================================================================================
+
+PyZoBot offers two operational modes:
+
+1. Cloud-based: Uses OpenAI's API services. Data is processed according to 
+   OpenAI's data usage policies.
+
+2. Local/Private: Uses Ollama with open-source models. All data processing 
+   occurs locally on your machine.
+
+Users are responsible for ensuring compliance with their institutional data 
+handling policies when processing research documents.
+
+================================================================================
+ACADEMIC USE AND CITATION
+================================================================================
+
+If you use PyZoBot in your research, please cite:
+
+Alshammari, S., Abu Rukbah, W., Basalelah, L., Alsuhibani, A., Alghubayshi, A., 
+McInnes, B.T., & Wijesinghe, D.S. (2024). PyZoBot: A Platform for Conversational 
+Information Extraction and Synthesis from Curated Zotero Reference Libraries 
+through Advanced Retrieval-Augmented Generation. [Software]. 
+https://github.com/dayanjan/PyZoBot-RAG
+
+================================================================================
+MEDICAL/SCIENTIFIC DISCLAIMER
+================================================================================
+
+This software is designed for research and educational purposes. It should not 
+be used as a substitute for professional medical advice, diagnosis, or treatment. 
+The authors and contributors make no warranties about the completeness, reliability, 
+and accuracy of the information processed by this software.
+
+================================================================================
+EXPORT CONTROL NOTICE
+================================================================================
+
+This distribution may include cryptographic software. The country in which you 
+currently reside may have restrictions on the import, possession, use, and/or 
+re-export to another country, of encryption software. BEFORE using any encryption 
+software, please check your country's laws, regulations and policies concerning 
+the import, possession, or use, and re-export of encryption software.
+
+================================================================================
+TRADEMARK NOTICE
+================================================================================
+
+PyZoBot is not affiliated with, endorsed by, or sponsored by:
+- OpenAI (GPT, ChatGPT are trademarks of OpenAI)
+- Meta (LLaMA is a trademark of Meta Platforms, Inc.)
+- Mistral AI (Mistral is a trademark of Mistral AI)
+- Corporation for Digital Scholarship (Zotero is a trademark of the Corporation for Digital Scholarship)
+
+All trademarks, service marks, trade names, product names, and logos appearing in 
+the software are the property of their respective owners.
+
+================================================================================
