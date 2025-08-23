@@ -172,7 +172,7 @@ Users in medical or pharmaceutical fields should ensure all use complies with re
 
 ## Funding Acknowledgment
 
-This research was conducted at Virginia Commonwealth University. Any funding sources will be acknowledged in associated publications.
+No external funding was used to undertake this research project.
 
 ## Third-Party Components
 
