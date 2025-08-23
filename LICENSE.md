@@ -136,8 +136,55 @@ https://github.com/dayanjan/PyZoBot-RAG
 
 This work was developed as part of Dr. Suad Alshammari's PhD thesis at Virginia Commonwealth University under the supervision of Dr. Dayanjan S. Wijesinghe.
 
+## Data Privacy Statement
+
+PyZoBot processes research documents and literature with the following privacy considerations:
+
+### Local Processing Option
+When using Ollama with open-source models (LLaMA, Mistral), all data processing occurs entirely on your local machine. No data is transmitted to external servers, ensuring complete privacy and confidentiality of your research materials.
+
+### Cloud Processing Option
+When using OpenAI's API services (GPT-3.5, GPT-4, GPT-4o), data is processed according to OpenAI's data usage policies. Users should review OpenAI's privacy policy and ensure compliance with their institutional data handling requirements.
+
+### User Responsibility
+Users are responsible for:
+- Ensuring compliance with institutional data handling policies
+- Verifying appropriate permissions for processing copyrighted materials
+- Maintaining security of API keys and access credentials
+- Choosing the appropriate processing mode (local vs. cloud) based on data sensitivity
+
+## Medical and Scientific Disclaimer
+
+**IMPORTANT**: This software is designed exclusively for research and educational purposes in the field of scientific literature analysis and synthesis.
+
+The software and its outputs:
+- Should NOT be used as a substitute for professional medical advice, diagnosis, or treatment
+- Should NOT be relied upon for clinical decision-making without independent verification
+- Are provided for informational and research purposes only
+- May contain errors or inaccuracies despite best efforts to ensure quality
+
+The authors, contributors, and their affiliated institutions:
+- Make no warranties about the completeness, reliability, or accuracy of the information processed
+- Assume no liability for decisions made based on the software's output
+- Recommend independent verification of all critical information
+
+Users in medical or pharmaceutical fields should ensure all use complies with relevant professional standards and regulations.
+
+## Funding Acknowledgment
+
+This research was conducted at Virginia Commonwealth University. Any funding sources will be acknowledged in associated publications.
+
+## Third-Party Components
+
+This software incorporates various third-party libraries and components. For a complete list of dependencies and their respective licenses, please refer to the NOTICE file included in this distribution.
+
+## Patents
+
+No patents are currently held or pending for this software. Any future patent applications will be disclosed in accordance with Apache License 2.0 requirements.
+
 ## Contact
 
 For questions, issues, or contributions, please contact:
 - Project Repository: https://github.com/dayanjan/PyZoBot-RAG
 - Issues: https://github.com/dayanjan/PyZoBot-RAG/issues
+- Principal Investigator: Dr. Dayanjan S. Wijesinghe, Virginia Commonwealth University
