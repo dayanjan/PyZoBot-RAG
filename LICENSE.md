@@ -4,13 +4,13 @@ http://www.apache.org/licenses/
 
 ## Copyright Notice
 
-Copyright (c) 2024 PyZoBot Contributors
-
-**Principal Investigator and Project Supervisor:**
-- Dayanjan S. Wijesinghe, Ph.D. (Virginia Commonwealth University)
+Copyright (c) 2025 PyZoBot Contributors
 
 **Lead Developer:**
 - Suad Alshammari, Pharm.D. (Northern Border University & Virginia Commonwealth University)
+
+**Principal Investigator and Project Supervisor:**
+- Dayanjan S. Wijesinghe, Ph.D. (Virginia Commonwealth University)
 
 **Contributors:**
 - Walaa Abu Rukbah, Pharm.D. (University of Tabuk & Virginia Commonwealth University)
