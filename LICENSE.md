@@ -23,7 +23,7 @@ Copyright (c) 2025 PyZoBot Contributors
 - Virginia Commonwealth University, School of Pharmacy, Richmond, VA, USA
 - Northern Border University, College of Pharmacy, Rafha, Saudi Arabia
 - University of Tabuk, Faculty of Pharmacy, Tabuk, Saudi Arabia
-- Imam Abdulrahman Bin Faisal University, Faculty of Pharmacy, Saudi Arabia
+- Imam Abdulrahman Bin Faisal University, College of Pharmacy, Dammam, Saudi Arabia
 - Qassim University, Unaizah College of Pharmacy, Unaizah, Saudi Arabia
 - University of Hail, School of Pharmacy, Hail, Saudi Arabia
 - Virginia Commonwealth University, College of Engineering, Richmond, VA, USA
